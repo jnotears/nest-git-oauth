@@ -34,8 +34,10 @@
 $ npm install
 ```
 
+```bash
 $ npm install --save @nestjs/passport passport passport-google-oauth20 dotenv
 $ npm install -D @types/passport-google-oauth20
+```
 
 
 ## Running the app
